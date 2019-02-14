@@ -1,5 +1,5 @@
 # libinit
-template for library structure
+template for the structure of python library
 
 
 ## Preparing
