@@ -3,6 +3,9 @@ template for the structure of python library
 
 
 ## Preparing
+This repository is now a template repository.  
+You can use this template repository for creating libraries easily, using github template feature!
+
 1. Clone this repository and change directory to new cloned directory
 ```
 git clone https://github.com/mzntaka0/libinit.git ${new_repo_name}
